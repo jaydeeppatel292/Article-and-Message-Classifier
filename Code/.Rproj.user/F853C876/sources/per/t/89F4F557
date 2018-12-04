@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871120859.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4271114156",
+    "id" : "89F4F557",
+    "lastKnownWriteTime" : 1543865788,
+    "last_content_update" : 1543865788,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/ConfusionMatrix.R",
+    "project_path" : "ConfusionMatrix.R",
+    "properties" : {
+        "cursorPosition" : "1,44",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871113769.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "541969604",
+    "id" : "5B9E0ED2",
+    "lastKnownWriteTime" : 1542322171,
+    "last_content_update" : 1542322171,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/analysis.R",
+    "project_path" : "analysis.R",
+    "properties" : {
+        "cursorPosition" : "16,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

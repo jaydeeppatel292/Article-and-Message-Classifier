@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871139127.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3513688195",
+    "id" : "44F9CCC6",
+    "lastKnownWriteTime" : 1543868955,
+    "last_content_update" : 1543868955,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/svm.R",
+    "project_path" : "svm.R",
+    "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

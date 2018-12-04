@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871134256.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2030063816",
+    "id" : "EE3450F8",
+    "lastKnownWriteTime" : 1543866249,
+    "last_content_update" : 1543866249,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/Naive_Bayes.R",
+    "project_path" : "Naive_Bayes.R",
+    "properties" : {
+        "cursorPosition" : "11,28",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

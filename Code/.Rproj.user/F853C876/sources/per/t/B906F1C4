@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871144014.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3043332372",
+    "id" : "B906F1C4",
+    "lastKnownWriteTime" : 1543867326,
+    "last_content_update" : 1543867326,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/K-NearestNeighbours.R",
+    "project_path" : "K-NearestNeighbours.R",
+    "properties" : {
+        "cursorPosition" : "11,30",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

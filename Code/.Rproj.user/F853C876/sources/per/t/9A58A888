@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871132034.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3067350164",
+    "id" : "9A58A888",
+    "lastKnownWriteTime" : 1543866934,
+    "last_content_update" : 1543866934,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/GenerateTF-IDF.R",
+    "project_path" : "GenerateTF-IDF.R",
+    "properties" : {
+        "cursorPosition" : "23,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

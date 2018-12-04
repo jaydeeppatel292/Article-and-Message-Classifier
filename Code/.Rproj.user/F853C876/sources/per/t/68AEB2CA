@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871021752.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2808100884",
+    "id" : "68AEB2CA",
+    "lastKnownWriteTime" : 1543871108,
+    "last_content_update" : 1543871108909,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/decision_tree.R",
+    "project_path" : "decision_tree.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

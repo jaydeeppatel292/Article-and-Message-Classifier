@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543871129603.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "396218313",
+    "id" : "36644DBA",
+    "lastKnownWriteTime" : 1543865951,
+    "last_content_update" : 1543865951,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/GenerateTDM.R",
+    "project_path" : "GenerateTDM.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

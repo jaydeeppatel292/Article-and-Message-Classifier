@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543870904406.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4283008582",
+    "id" : "B69AAFA2",
+    "lastKnownWriteTime" : 1543869889,
+    "last_content_update" : 1543869889,
+    "path" : "C:/ConcordiaStudy/Data Mining/Project/Document and message classifier/Code/ArticleClassification.R",
+    "project_path" : "ArticleClassification.R",
+    "properties" : {
+        "cursorPosition" : "131,25",
+        "scrollLine" : "118"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
